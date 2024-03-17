@@ -1,2 +1,2 @@
 # AutomationDemo
-Automation code
+Automation code for practice
